@@ -4,7 +4,7 @@ $( document ).ready( function( )
 {
     $( "#DropdownButton" ).click( function( )
     {
-        if ( dropdownMenuID.width( ) > 992 )
+        if ( $( document ).width( ) > 992 )
         {
             if ( "none" == dropdownMenuID.css( "display" ) )
             {
