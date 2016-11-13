@@ -7,11 +7,6 @@
     border-top-width: 1px;
 }
 
-.open>#DropdownMenu
-{
-    display: block;
-}
-
 #navbarResponsive
 {
     max-width: 1600px;
